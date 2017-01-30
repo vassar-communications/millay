@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25504",
 "files": {
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/.htaccess": {
 		"ft": 8192,
 		"oA": 2,
@@ -118,6 +124,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/config.rb",
+		"oF": 0
+		},
+	"\/design-files\/endnotes.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/design-files\/endnotes.html",
 		"oF": 0
 		},
 	"\/design-files\/Frontice Gray scale-bg.psd": {
@@ -340,6 +352,19 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/scratch.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/scratch.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/steepletop.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -365,7 +390,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 506450412,
-	"displayValue": "__millay",
+	"displayValue": "millay",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-karate"
 	},

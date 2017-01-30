@@ -347,7 +347,7 @@ a.fn.org.url.u-VCard__fn.u-VCard__item.u-VCard__org.u-VCard__url:link,
     padding: 0;
     }
     .modulesArea__row:nth-child(1) {
-        margin-bottom: 2em;
+        margin: 2em;
     }
     .Module__label, dd {
     margin: 0;
@@ -398,7 +398,7 @@ a.fn.org.url.u-VCard__fn.u-VCard__item.u-VCard__org.u-VCard__url:link,
     }
     .Module--halfWidth {
     padding: 0;
-    margin: 4%;
+    margin: 0 4%;
     }
     .Module--halfWidth {
     width: 50%;
@@ -423,9 +423,6 @@ $sidebarModule__header--linkColorActive,
 $sidebarModule__header--linkColorVisited, 
 $sidebarModule__header--linkColorHoverFocus
 );
-}
-.modulesArea__row:nth-child(1) {
-    border-bottom: 1px solid $mdGreen;
 }
 .Module__listItem:first-child, 
 .Module__listItem:first-of-type {
